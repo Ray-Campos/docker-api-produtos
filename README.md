@@ -16,7 +16,7 @@
 
 ### Nomes dos integrantes e investigação inicial
 
-* **Integrantes:** Breno de Souza Guedes, Mauro Gutemberg Magalhães Barros, Ray Arthur Silva Campos Dias, Vinicius Vieira Romão
+* **Integrantes:** Breno de Souza Guedes, Davi de Souza Santos Barbosa, Mauro Gutemberg Magalhães Barros, Ray Arthur Silva Campos Dias, Vinicius Vieira Romão
 * **Investigação:** A análise inicial focava em compreender a estrutura da API Node.js fornecida e isolar a aplicação em um ambiente Docker. O foco da investigação técnica foi compreender o motivo de falhas de roteamento ao adicionar um novo endpoint (`/produtos/destaque`) como requerido na atividade, e como rodar os serviços em portas diferentes sem alterar o código base da aplicação.
 
 ### Comandos usados e URLs testadas
